@@ -45,6 +45,7 @@ It uses cosine similarity to recommend top 5 similar movies based on a given inp
 ---
 
 📌 Future Improvements
+
 Add poster images using TMDB API.
 
 Use collaborative filtering for better accuracy.
