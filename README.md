@@ -6,6 +6,9 @@ Kaggle Dataset:- https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 A web-based **Movie Recommendation System** built using **Content-Based Filtering**. This app suggests movies similar to the one you like, based on content such as genres, keywords, cast, and crew.
 
+📊 Example
+Enter a movie like Inception, and you'll get a list of similar movies like Interstellar, The Prestige, etc.
+
 ---
 
 ## 🔍 Overview
@@ -38,6 +41,15 @@ It uses cosine similarity to recommend top 5 similar movies based on a given inp
 - Flask
 - HTML/CSS (for frontend)
 - TMDB dataset (Kaggle)
+
+---
+
+📌 Future Improvements
+Add poster images using TMDB API.
+
+Use collaborative filtering for better accuracy.
+
+Add user login to save favorite movies.
 
 ---
 
